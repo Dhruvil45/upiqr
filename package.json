@@ -1,6 +1,6 @@
 {
   "name": "@adityavijay21/upiqr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate NPCI's UPI QR code along with UPI intent link. Supports Node.js, browsers, and React Native.",
   "type": "module",
   "main": "./dist/index.cjs",
